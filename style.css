@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main{
+  display: flex;
+  
+  justify-content: center;
+  align-items: center;
+  background:linear-gradient(rgba(181, 7, 255, 0.372), rgba(132, 236, 21, 0.476)),url(V-B-1.jpg) ;
+}
+
+.vision-board img{
+  height: 800px;
+  width: 1000px;
+}
